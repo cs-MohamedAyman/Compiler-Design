@@ -1,2 +1,2 @@
-# Compilers
-Compilers lectures for computer science students.
+# Compiler Design
+Compiler design lectures for computer science students.
